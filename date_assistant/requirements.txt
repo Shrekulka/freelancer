@@ -1,0 +1,8 @@
+
+openai
+anthropic
+httpx
+json-repair
+environs
+instaloader
+colorama

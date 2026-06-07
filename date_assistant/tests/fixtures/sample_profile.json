@@ -1,0 +1,39 @@
+{
+  "username": "sample_user",
+  "full_name": "Анна Смирнова",
+  "bio": "🌍 путешественница | 📚 книжный клуб | 🍝 foodie | Москва",
+  "followers_count": 3200,
+  "following_count": 540,
+  "posts": [
+    {
+      "caption": "Португалия — любовь с первого взгляда. Лиссабон, трамваи, пастель-де-ната",
+      "hashtags": ["portugal", "lisbon", "travel", "europe"],
+      "likes": 412, "post_type": "image"
+    },
+    {
+      "caption": "Паста с трюфелем — когда Италия в твоей кухне 🍝",
+      "hashtags": ["pasta", "cooking", "homecooking", "italian"],
+      "likes": 289, "post_type": "image"
+    },
+    {
+      "caption": "Закончила 'Нормальные люди' Салли Руни. Редко книга так точно про чувства",
+      "hashtags": ["books", "reading", "normalpeople", "bookstagram"],
+      "likes": 156, "post_type": "image"
+    },
+    {
+      "caption": "Выставка импрессионистов. Моне живьём — другое ощущение",
+      "hashtags": ["art", "monet", "impressionism", "moscow"],
+      "likes": 203, "post_type": "image"
+    },
+    {
+      "caption": "Утренняя йога — лучший способ начать день",
+      "hashtags": ["yoga", "morning", "wellness", "mindfulness"],
+      "likes": 178, "post_type": "image"
+    },
+    {
+      "caption": "White Lotus 3 — не могу дождаться!",
+      "hashtags": ["whitelotus", "hbo", "series", "tvshow"],
+      "likes": 98, "post_type": "image"
+    }
+  ]
+}
